@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>🎯 Looking for a 6-month Data Science / Machine Learning internship starting April 2027</b><br>
-  <sub>Open to <b>Switzerland</b> 🇨🇭 and <b>Québec</b> 🇨🇦 — currently based in France</sub>
+  <sub>Currently based in France — open to opportunities in <b>Switzerland</b> 🇨🇭</sub>
 </p>
 
 ---
