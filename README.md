@@ -106,18 +106,6 @@ A multi-agent system for scheduling medical shifts at Lille University Hospital 
 stochastic constraints, solved with tabu search, simulated annealing and genetic algorithms.
 **+12% performance** over the department's existing schedules; shortlisted for deployment.
 
-<details>
-<summary>ℹ️ Why the git history of these repositories doesn't reflect my contribution</summary>
-
-<br>
-
-These projects were built in pairs and on Google Colab, then pushed to GitHub in a single batch
-by my co-authors. As a result, the git history doesn't document how the work was actually
-divided — not for them, and not for me. Rather than leave that ambiguous, each fork carries a
-`CONTRIBUTION.md` stating what I did, what I didn't do, and who did the rest.
-
-</details>
-
 ---
 
 ### 💼 Experience
@@ -139,6 +127,20 @@ operator.
 
 > The results and deliverables of this internship are confidential. This section is a written
 > description only: no code, configuration or company-owned data is published here.
+
+---
+
+<details>
+<summary>ℹ️ Why the git history of these repositories doesn't reflect my contribution</summary>
+
+<br>
+
+These projects were built in pairs and on Google Colab, then pushed to GitHub in a single batch
+by my co-authors. As a result, the git history doesn't document how the work was actually
+divided — not for them, and not for me. Rather than leave that ambiguous, each fork carries a
+`CONTRIBUTION.md` stating what I did, what I didn't do, and who did the rest.
+
+</details>
 
 ---
 
